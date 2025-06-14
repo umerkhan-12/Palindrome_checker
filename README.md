@@ -33,14 +33,15 @@ This is a **graphical Pushdown Automaton (PDA) Palindrome Checker** built using 
 
 ## 📸 Screenshot
 
-![PDA Palindrome Checker GUI](./video/PDA%20Palindrome%20Checker%20%20demo.mp4)
+![PDA Palindrome Checker GUI]
+(./video/PDA%20Palindrome%20Checker%20%20demo.mp4)
 
 🚀 How to Run
 Make sure you have Python 3 installed.
 
 Install required packages:
 
-![alt text](./video/for%20run.png)
+![alt text](./image.png)
 ✅ Works on Windows out-of-the-box
 🔔 For Mac/Linux, replace winsound with pygame or remove the beep.
 
@@ -50,4 +51,4 @@ pda-palindrome-checker/
 │
 ├── pda_palindrome_checker.py      # Main GUI script
 ├── palindrome_results.txt         # Output log file (after export)
-└── images/                        # (Optional) Screenshots for README
+└── images/                        #  Screenshots for README
