@@ -33,8 +33,7 @@ This is a **graphical Pushdown Automaton (PDA) Palindrome Checker** built using 
 
 ## 📸 Screenshot
 
-![PDA Palindrome Checker GUI]
- (./Palindrome_chcker_demo.gif)
+![PDA Palindrome Checker GUI](./Palindrome_chcker_demo.gif)
 
 
 🚀 How to Run
