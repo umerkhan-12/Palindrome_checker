@@ -34,7 +34,7 @@ This is a **graphical Pushdown Automaton (PDA) Palindrome Checker** built using 
 ## 📸 Screenshot
 
 ![PDA Palindrome Checker GUI]
- (<video/Palindrome_chcker demo.gif>)
+ (video/Palindrome_chcker_demo.gif)
 
 
 🚀 How to Run
